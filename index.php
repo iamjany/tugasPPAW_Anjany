@@ -96,7 +96,7 @@
                     <h2 class="intro-text text-center"><strong> Biografi</strong>
                     </h2>
                     <hr>
-                    <img class="img-responsive img-border img-left" src="img/kabupaten-bandung-barat.png" width="200" height="10" frameborder="0" style="border:0" >
+                    <img class="img-responsive img-border img-left" src="img/Anjany.png" width="200" height="10" frameborder="0" style="border:0" >
                     <hr class="visible-xs">
                     <span align="justify">
                     <p>  Nama saya Anjany Risqiati, saya anak pertama dari ibu Ati handayani dan bapak Zainal Abidin. saya anak tertua dari keempat saudara-saudara saya. 
